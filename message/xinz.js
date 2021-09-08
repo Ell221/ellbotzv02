@@ -1191,7 +1191,7 @@ module.exports = async(xinz, msg, blocked, baterai, _afk, welcome, left) => {
                 textImg(setting.ListPayment)         
                 break
             case prefix+'sourcecode': case prefix+'sc': case prefix+'src':
-                textImg(`Bot ini menggunakan sc : https://github.com/Ell221/ellbotz-main`)
+                textImg(`Bot ini menggunakan sc: https://github.com/Ell221/ellbotzv02 ( RECODE )`)
                 break
             case prefix+'runtime':
                 textImg(`${runtime(process.uptime())}`)
